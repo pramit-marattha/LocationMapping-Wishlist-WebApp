@@ -1,4 +1,4 @@
-## It's Live 🎉 Visit here ==>https://locationmappinglist.netlify.app/
+## It's Live 🎉 Visit here ==>https://locationmapwishlist.netlify.app/
 
 ---
 
