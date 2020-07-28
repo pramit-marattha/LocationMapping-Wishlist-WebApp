@@ -1,0 +1,52 @@
+header {
+
+  width: 100%;
+  color: $white;
+  // background-color: #00d0ff;
+//   background: rgb(131,58,180);
+// background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+// background-image: radial-gradient(circle, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+// background: #B24592;  /* fallback for old browsers */
+// background: -webkit-linear-gradient(to right, #F15F79, #B24592);  /* Chrome 10-25, Safari 5.1-6 */
+// background: linear-gradient(to right, #F15F79, #B24592); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #76b852;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #8DC26F, #76b852);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #8DC26F, #76b852); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    height: 4.5em;
+    font-family: 'Roboto', sans-serif;
+    line-height: 4.5em;
+  }
+
+  ul,
+  li,
+  a {
+    display: flex;
+    align-items: center;
+  }
+
+  ul {
+    justify-content: flex-end;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  a {
+    color: lighten($gatsby-purple, 50);
+    text-decoration: none;
+    padding: 0 .5em;
+  }
+
+  p {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 0;
+  }
+
+}
