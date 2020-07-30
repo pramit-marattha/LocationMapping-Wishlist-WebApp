@@ -1,3 +1,6 @@
+An awesome and very simple web app. It includes features like a leaflet.js map layout and provides the fully-fledged ability for any user to use it. A leaflet js is a javascript library for creating an interactive maps.
+
+
 ## It's Live 🎉 Visit here ==>https://locationmapwishlist.netlify.app/
 
 ---
